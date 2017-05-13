@@ -1,0 +1,39 @@
+div {
+    display: block;
+}
+.g {
+    margin-left: 126px;
+    position: relative;
+}
+h3 {
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-text-overflow: ellipsis;
+    white-space: nowrap;
+    margin: 0;
+    line-height: 1.2;
+    font-size: 18px;
+    font-weight: normal;
+
+}
+#s {
+    max-width: 48em;
+    margin-bottom: 32px;
+    line-height: 1.54;
+}
+#f {
+    white-space: nowrap;
+    height: 18px;
+    line-height: 16px;
+}
+cite {
+    color: #006621;
+    font-size: 14px;
+    font-style: normal;
+}
+#ci {
+    line-height: 1.4;
+    word-wrap: break-word;
+    
+}
